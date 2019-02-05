@@ -34,6 +34,10 @@ This rule reports deprecated in Vue.js v2.6.0+ `slot-scope` attribute.
 
 </eslint-code-block>
 
+## :books: Further reading
+
+- [API - slot-scope](https://vuejs.org/v2/api/#slot-scope-deprecated)
+
 ## :mag: Implementation
 
 - [Rule source](https://github.com/vuejs/eslint-plugin-vue/blob/master/lib/rules/no-deprecated-slot-scope-attribute.js)

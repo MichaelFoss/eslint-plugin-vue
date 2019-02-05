@@ -32,8 +32,8 @@ The `"ignores"` option accepts an array of the following strings.
 
 <details>
 
-- `"slot-scope-attribute"` ... [slot-scope](https://vuejs.org/v2/api/#slot-scope-deprecated)
 - `"v-slot"` ... [v-slot](https://vuejs.org/v2/api/#v-slot)
+- `"slot-scope-attribute"` ... [slot-scope](https://vuejs.org/v2/api/#slot-scope-deprecated)
 
 </details>
 
@@ -59,6 +59,11 @@ The `"ignores"` option accepts an array of the following strings.
 ```
 
 </eslint-code-block>
+
+## :books: Further reading
+
+- [API - v-slot](https://vuejs.org/v2/api/#v-slot)
+- [API - slot-scope](https://vuejs.org/v2/api/#slot-scope-deprecated)
 
 ## :mag: Implementation
 

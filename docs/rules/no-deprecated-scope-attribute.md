@@ -37,6 +37,10 @@ This rule reports deprecated in Vue.js v2.5.0+ `scope` attribute.
 
 </eslint-code-block>
 
+## :books: Further reading
+
+- [API - scope](https://vuejs.org/v2/api/#scope-removed)
+
 ## :mag: Implementation
 
 - [Rule source](https://github.com/vuejs/eslint-plugin-vue/blob/master/lib/rules/no-deprecated-scope-attribute.js)

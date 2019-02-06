@@ -38,7 +38,7 @@ module.exports = {
           <a />
         </LinkList>
       </template>`,
-      options: [{ version: '*' }]
+      options: [{ version: '>=2.0.0' }]
     }
   ],
   invalid: [
